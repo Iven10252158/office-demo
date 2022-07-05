@@ -1,0 +1,233 @@
+[
+    {
+        "moduleId": "6r3ZSz85MZCg44NADwyP",
+        "tagId": "83619e00-f2c3-11ec-86c2-719f7f663634",
+        "name": "點我看天氣",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "hrGtyd0AnfT7MoHPTVX9",
+        "tagId": "0994f450-edf5-11ec-8a8f-ad5f2093d72b",
+        "name": "美股",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "fMxDPybkm7AI3o13PrQr",
+        "tagId": "25858300-edf5-11ec-8a8f-ad5f2093d72b",
+        "name": "ETH CHART",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "fH7pE3JZCdqq9FQiSanR",
+        "tagId": "ba1f8dc0-ee05-11ec-ab3d-7922c7b5792e",
+        "name": "NASA",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "Qd8keJrQxl7MBMohPomg",
+        "tagId": "54cb5630-ee27-11ec-ab3d-7922c7b5792e",
+        "name": "CONTACT_US",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "Klcty3Km7UzUfIOd9par",
+        "tagId": "8dd43a70-f087-11ec-8de1-ffef204a948a",
+        "name": "COVID GLOBAL MAP",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "IHkEHKicOio99Gq98sGs",
+        "tagId": "d02e7b30-f080-11ec-808f-d79e3fac236a",
+        "name": "常用表單",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "Togi7JPPADBt7RaC8lcZ",
+        "tagId": "79f330e0-f07a-11ec-808f-d79e3fac236a",
+        "name": "高雄KIOSK",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "375px",
+        "height": "667px"
+        }
+    },
+    {
+        "moduleId": "fNEKJ1dLs8PdskOn2kIx",
+        "tagId": "97377ad0-ee2c-11ec-ab3d-7922c7b5792e",
+        "name": "OSENSE_FACEBOOK",
+        "popupType": "facebook",
+        "popupSize": {
+        "width": "400px",
+        "height": "550px"
+        }
+    },
+    {
+        "moduleId": "KFrUJsfVfYBjZLPdCqji",
+        "tagId": "b3297240-f05f-11ec-95b9-7f7638858e64",
+        "name": "監視錄影器A",
+        "popupType": "video",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "ui8ClQZwqoGkeq09wDXJ",
+        "tagId": "5bacca20-f060-11ec-95b9-7f7638858e64",
+        "name": "監視錄影器B",
+        "popupType": "video",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "P3XR66U5tzOLSxN7ERhk",
+        "tagId": "08949950-f07c-11ec-808f-d79e3fac236a",
+        "name": "窗外的風景",
+        "popupType": "video",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "EQFt05J66QulsHud2Y2O",
+        "tagId": "073d0750-f076-11ec-808f-d79e3fac236a",
+        "name": "元宇宙製造所",
+        "popupType": "image",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "zRiTSFl6FJtiCElHZWXY",
+        "tagId": "0ddc6ec0-f076-11ec-808f-d79e3fac236a",
+        "name": "O2 META",
+        "popupType": "image",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "kI9ezrHpncrpSkFDbZLT",
+        "tagId": "4f4ebc50-f076-11ec-808f-d79e3fac236a",
+        "name": "智慧場域服務",
+        "popupType": "image",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "Iz2UcQdTtVQDCS95yXyj",
+        "tagId": "4c4c78d0-f076-11ec-808f-d79e3fac236a",
+        "name": "探索5G生活",
+        "popupType": "image",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "PgaSDhbq7rBeR9BSHV1x",
+        "tagId": "f28a8f10-f08b-11ec-a533-af5692354160",
+        "name": "印表機產品介紹示意",
+        "popupType": "3D_Model",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "ydfWbMAqJui0mh6gFzx2",
+        "tagId": "82d12b70-f1df-11ec-8737-319745797233",
+        "name": "長桌筆電產品介紹示意",
+        "popupType": "3D_Model",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "KAV0R3btjjlEgXC2Lmjk",
+        "tagId": "250b30b0-f218-11ec-bbe4-eb0931cf75ba",
+        "name": "酒單",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "zTuNcbtQLoE0L4FQMyba",
+        "tagId": "ca4c7260-f217-11ec-bbe4-eb0931cf75ba",
+        "name": "零食許願表單",
+        "popupType": "iframe",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    {
+        "moduleId": "XHsmUn4FuUaJtIL5uvBQ",
+        "tagId": "ca4c7260-f217-11ec-bbe4-eb0931cf75ba",
+        "name": "咖啡機",
+        "popupType": "link",
+        "popupSize": {
+        "width": "90%",
+        "height": "90%"
+        }
+    },
+    
+    {
+        "moduleId": "l8b7yCbVPA74Cn6D1IeZ",
+        "tagId": "ca4c7260-f217-11ec-bbe4-eb0931cf75ba",
+        "name": "點我打卡",
+        "popupType": "punchIn",
+        "popupSize": {
+        "width": "450px",
+        "height": "550px"
+        }
+    },
+    {
+        "moduleId": "7RpTf2A2fny7WeMscdeY",
+        "tagId": "d2f2ee00-f2d3-11ec-86c2-719f7f663634",
+        "name": "提問人偶",
+        "popupType": "game",
+        "popupSize": {
+        "width": "450px",
+        "height": "200px"
+        }
+    }
+]
